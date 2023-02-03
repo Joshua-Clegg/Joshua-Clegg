@@ -11,7 +11,7 @@ I come from a background in STEM, graduating with a 2:1 in my double major degre
 1. Data Analysis
 1. Machine Learning
 
-## Softwares
+## Packages
 1. Tableu
 1. Excel
 1. Jupyter Notebook
