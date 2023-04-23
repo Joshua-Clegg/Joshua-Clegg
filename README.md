@@ -1,7 +1,8 @@
-### **Joshua Clegg - Aspiring Data Scientist**
-I am an aspiring data scientist coming from a pharmaceutical background hoping to headstart a career in tech.
-Completed a highly intensive Data Science Bootcamp sponsored by the Dfe and set to receive certification as a data scientist from a Russell Group University, I seek to put the skills I learned from it to delve into an appropriate tech role.
-I come from a background in STEM, graduating with a 2:1 in my double major degree which focused on Computer Science and Chemistry.
+### **Joshua Clegg - Data Scientist**
+I am a data scientist coming from a pharmaceutical background hoping to develop my career in tech. I possess skills in data analysis, data visualisation, forecasting and providing key insights into data. I have over 5 years of experience with Excel and have proficiency with SQL and python for data analysis and visualisation.
+I am also skilled in using machine learning techniques such as supervised and unsupervised learning to create key data models that provide significant insight.
+My educational background is in STEM, graduating with a 2:1 in my double major degree which focused on Computer Science and Chemistry.
+I have completed a highly intensive Data Science Bootcamp sponsored by the Dfe and have received certification as a data scientist from a Russell Group University and HyperionDev the bootcamp provider, I seek to put the skills I learned from it to delve into an appropriate tech role.
 
 ## Skills 
 1. Python(Pandas, Seaborn, Matplotlib etc.)
@@ -13,7 +14,6 @@ I come from a background in STEM, graduating with a 2:1 in my double major degre
 
 ## Packages
 1. Tableu
-1. Excel
 1. Jupyter Notebook
 
 ## Projects Completed
